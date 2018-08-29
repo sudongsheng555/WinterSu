@@ -1,2 +1,1 @@
-<?php
-echo 'Winter.Su';
+Winter.Su
